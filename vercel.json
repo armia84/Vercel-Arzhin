@@ -2,7 +2,7 @@
   "version": 2,
   "name": "Aryan",
   "rewrites": [
-    { "source": "/(.*)", "destination": "/api/Arzhin" }
+    { "source": "/(.*)", "destination": "/api/arzhin" }
   ],
   "trailingSlash": false
 }
