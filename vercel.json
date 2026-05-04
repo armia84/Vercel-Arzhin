@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "Aryan",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/Arzhin" }
+  ],
+  "trailingSlash": false
+}
